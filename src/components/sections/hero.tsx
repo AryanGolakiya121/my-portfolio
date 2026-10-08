@@ -7,7 +7,9 @@ import { siteConfig } from "@/config/site";
 
 const technologies = [
   "Node.js",
+  "Express.js",
   "NestJS",
+  "JavaScript",
   "TypeScript",
   "MongoDB",
   "MySQL",
@@ -61,11 +63,11 @@ const Hero = () => {
 
             <FadeIn delay={0.2}>
               <p className="mt-7 max-w-2xl text-base leading-8 ext-(--muted-foreground) sm:text-lg">
-                I&apos;m Aryan Golakiya, a Backend Developer with 4+ years of
+                I&apos;m Aryan Golakiya, a Backend Developer with 3+ years of
                 experience building APIs, SaaS platforms, mobile application
-                backends, third-party integrations, and reliable server-side
-                systems using Node.js, NestJS, TypeScript, MongoDB, MySQL,
-                Redis, and BullMQ.
+                backends, third-party integrations and reliable server-side
+                systems using Node.js, Express.js, NestJS, JavaScript, TypeScript, MongoDB, MySQL,
+                Redis and BullMQ.
               </p>
             </FadeIn>
 

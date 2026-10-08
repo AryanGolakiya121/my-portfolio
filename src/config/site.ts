@@ -1,10 +1,10 @@
 
 export const siteConfig = {
   name: "Aryan Golakiya",
-  title: "Backend Developer",
-  description: "Backend Developer specializing in Node.js, NestJS, TypeScript, MongoDB, Redis, and scalable API development.",
+  title: "MERN Stack Developer",
+  description: "MERN Stack Developer with a backend focus, specializing in Node.js, Express.js, NestJS, React.js, Next.js, MongoDB, JavaScript, TypeScript, REST APIs and scalable web applications.",
 
-   url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
 
   email: "aryangolakiya121@gmail.com",
 
